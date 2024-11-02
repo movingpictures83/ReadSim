@@ -1,0 +1,2 @@
+Prefix plugins/ReadSim/example/
+Plugin ReadSim inputfile parameters.readsim.txt outputfile simulated.bed

@@ -1,0 +1,5 @@
+expressionlevels	explvprofile.txt
+readcnt	100000
+posbias	sampleposbias.txt
+readlen	75
+bedfile	sample.bed
